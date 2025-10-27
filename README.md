@@ -6,7 +6,7 @@
 <ul>
   <li>Student at Elyon Christian School</li>
   <li>I like sports and games</li>
-  <li>Currently learning GitHub and HTML</
+  <li>Currently learning HTML</
 </ul>
 
 <h2>My Hobby</h2>

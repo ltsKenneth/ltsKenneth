@@ -1,15 +1,16 @@
-## Hi there 👋 im kenneth
+<h2>Hi there 👋 I'm Kenneth</h2>
 
-Welcome to my GitHub profile. im a student thats lesrning computing rn
+<p>Welcome to my GitHub profile. I'm a student that's learning computing right now.</p>
 
-## About Me
--  Student at Elyon Christian School
--  I like sports and games
--  Currently learning GitHub and HTML
--  
-## My hobby
-1. Basketball
-2. Eating
+<h2>About Me</h2>
+<ul>
+  <li>Student at Elyon Christian School</li>
+  <li>I like sports and games</li>
+  <li>Currently learning GitHub and HTML</
+</ul>
 
-
-Thanks for visiting my profile!
+<h2>My Hobby</h2>
+<ol>
+  <li>Basketball</li>
+  <li>Eating</li>
+</ol>

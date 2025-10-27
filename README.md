@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 im kenneth
 
-<!--
-**ltsKenneth/ltsKenneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. im a student thats lesrning computing rn
 
-Here are some ideas to get you started:
+## About Me
+-  Student at Elyon Christian School
+-  I like sports and games
+-  Currently learning GitHub and HTML
+-  
+## My hobby
+1. Basketball
+2. Eating
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for visiting my profile!

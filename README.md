@@ -10,7 +10,7 @@
 </ul>
 
 <h2>My Hobby</h2>
-<ol>
+<ul>
   <li>Basketball</li>
   <li>Eating</li>
-</ol>
+</ul>
